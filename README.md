@@ -1,4 +1,8 @@
 # 💫 About Me:
+👋 Hi! I am a young and passionate 19 year old programmer from Ecuador 🇪🇨. I am currently pursuing a degree in economics, which gives me a unique perspective in the programming field. I am committed to learning and perfecting my skills as a programmer, while looking for opportunities to apply my economic knowledge in innovative projects. I am excited to be part of challenging projects that allow me to grow and collaborate with talented teams. If you are looking for a versatile and enthusiastic developer who can combine skills in programming and economics, I am here to contribute and make a difference! 🚀💻"
+
+---
+
 👋 ¡Hola! Soy un programador joven y apasionado con 19 años de edad, proveniente de Ecuador 🇪🇨. Actualmente, estoy cursando la carrera de economía, lo que me brinda una perspectiva única en el campo de la programación. Estoy comprometido a aprender y perfeccionar mis habilidades como programador, mientras busco oportunidades para aplicar mis conocimientos económicos en proyectos innovadores. Estoy emocionado de formar parte de proyectos desafiantes que me permitan crecer y colaborar con equipos talentosos. Si estás buscando un desarrollador versátil y entusiasta que pueda combinar habilidades en programación y economía, ¡estoy aquí para contribuir y marcar la diferencia! 🚀💻"
 
 
