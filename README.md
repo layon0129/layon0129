@@ -1,11 +1,6 @@
 # 💫 About Me:
 👋 Hi! I am a young and passionate 19 year old programmer from Ecuador 🇪🇨. I am currently pursuing a degree in economics, which gives me a unique perspective in the programming field. I am committed to learning and perfecting my skills as a programmer, while looking for opportunities to apply my economic knowledge in innovative projects. I am excited to be part of challenging projects that allow me to grow and collaborate with talented teams. If you are looking for a versatile and enthusiastic developer who can combine skills in programming and economics, I am here to contribute and make a difference! 🚀💻"
 
----
-
-👋 ¡Hola! Soy un programador joven y apasionado con 19 años de edad, proveniente de Ecuador 🇪🇨. Actualmente, estoy cursando la carrera de economía, lo que me brinda una perspectiva única en el campo de la programación. Estoy comprometido a aprender y perfeccionar mis habilidades como programador, mientras busco oportunidades para aplicar mis conocimientos económicos en proyectos innovadores. Estoy emocionado de formar parte de proyectos desafiantes que me permitan crecer y colaborar con equipos talentosos. Si estás buscando un desarrollador versátil y entusiasta que pueda combinar habilidades en programación y economía, ¡estoy aquí para contribuir y marcar la diferencia! 🚀💻"
-
-
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/layon0129) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/layon0129) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilio-león-9879911a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/layon0129) 
 
@@ -22,8 +17,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=layon0129&icon=1&color=12)](https://visitcount.itsvg.in)
 
-  #### 💰
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/layon0129) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/layon0129) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
